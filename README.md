@@ -1,5 +1,4 @@
-OpenCart Betacoin
-=================
+# OpenCart_Betacoin
 ### by Incredible_Hulk from [cryptocointalk](https://cryptocointalk.com/forum/470-betacoin-bet/)
 
 Original code and source credit to OpenCart_Bitcoin as per the remainder of the readme from '## ORIGINAL CREDIT'
